@@ -1,7 +1,13 @@
 fahmi = {
-    'nama': 'Fahmi Dzulqarnaini'
+    'nama': 'Fahmi Dzulqarnaini',
+    'umur': 19,
+    'kampus': 'Telkom University',
+    'jenis kelamin': 'Pria'
 }
 
 azka = {
-    'nama': 'Azka Fauzan'
+    'nama': 'Azka Fauzan',
+    'umur': 23,
+    'kampus': 'Mercubuana',
+    'jenis kelamin': 'Pria'
 }
