@@ -11,3 +11,10 @@ azka = {
     'kampus': 'Mercubuana',
     'jenis kelamin': 'Pria'
 }
+
+kipli = {
+    'nama': 'Kipli',
+    'umur': 21,
+    'kampus': 'Universitas Indonesia',
+    'jenis kelamin': 'Pria'
+}
